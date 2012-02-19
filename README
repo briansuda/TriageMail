@@ -1,0 +1,5 @@
+TriageMail is a focused, cut down email client used to quickly get you through your inbox and back to a sustainable level.
+
+This is a simple PHP script which emulates the iOS app. Since email is a sensitive aspect of life, I don't want to host an app which requires you to enter your name and password, hence the iOS app. For those technically enough inclined you can download this PHP file and run the app on your own servers.
+
+19 Feb 02012 - Migrated code base from Google Code
